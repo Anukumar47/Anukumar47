@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anukumar47
-- 👀 I’m interested in python full stack development
+- 👀 I’m interested in python backend development
 - 🌱 I’m currently learning to developing web applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 makumarofficial@gmail.com || +91-63822-23221
